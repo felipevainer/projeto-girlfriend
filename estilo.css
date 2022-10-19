@@ -82,18 +82,18 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url('../imagens/imagem01.jpg');
+    background-image: url('../imagens/imagem001.jpg');
     background-position: right center;
     
 }
 
 section#img02 {
-    background-image: url('../imagens/imagem02.jpg');
+    background-image: url('../imagens/imagem002.jpg');
     
 }
 
 section#img03 {
-    background-image: url('../imagens/imagem03.jpg');
+    background-image: url('../imagens/imagem003.jpg');
 }
 
 footer {
