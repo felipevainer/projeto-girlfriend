@@ -2,12 +2,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
 :root {
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2: 'Passion One', cursive;
-    --fonte3: 'Sriracha', cursive;
+    --fonte3: 'Great Vibes', cursive;
 }
 
 * {
@@ -17,7 +17,7 @@
 
 html, body {
     min-height: 100vh;
-    background-color: darkgrey;
+    background-color: pink;
     font-family: var(--fonte1);
 }
 
@@ -62,7 +62,7 @@ section > p {
 }
 
 section.normal {
-    background-color: white;
+    background-color: pink;
     color: black;
 }
 
